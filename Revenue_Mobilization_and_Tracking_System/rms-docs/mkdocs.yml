@@ -1,5 +1,0 @@
-site_name: RMS-DOCS
-theme: readthedocs
-nav:
-  - Home: index.md
-  - Management: 01_management_service.md
